@@ -1,5 +1,4 @@
-# Time-Series-Prediction
-Goal: Predict Bankruptcy Rate in Canada using Time Series Models
+# Predict Bankruptcy Rate in Canada using Time Series Models
 
 Accurately forecasting national bankruptcy rates is of interest to national banks, 
 insurance companies, credit lenders, politicians, etc.  
